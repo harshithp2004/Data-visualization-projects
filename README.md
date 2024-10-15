@@ -1,6 +1,5 @@
 # Data-visualization-projects
 ## World Happiness Score 2022
-## EDA
 The main objective of this project was to understand the what factors affects the Happiness of a country in which parameter it can be judged.
 ## Univariate Analysis
 1.What does the line plot of 'Happiness Score' for the top 50 countries by rank reveal about the variation in happiness scores among these countries, and are there any noticeable trends or patterns?
